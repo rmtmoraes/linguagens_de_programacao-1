@@ -1,5 +1,4 @@
-package lista_de_exercicios.exercicio16;
-
+//Crie um array contendo 10 números. Exiba a quantidade de números positivos, negativos e iguais a zero.
 public class Main {
     public static void main(String[] args){
         int [] numeros = {-8, -4, -7, -1, 0, 5, 8, 6, 7};
